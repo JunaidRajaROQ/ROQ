@@ -1,38 +1,22 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+about: Highlight bug in accesibility 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Description of the bug**
+When going into the narrator mode. In the ROQ website it is only reading the links and not the test to the page. When higlighted it reads what comes after, this consequently doesn't make it accessible to visually impaired users.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Go to ROQ website
+2. Launch narrator mode
+3. Go to any webpages and highlight text
+4. It will not read out text
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+When text is highlighted on the ROQ website, any text that is highlighted outside of a link or tab, it should read the text.
+**Actual behavior**
+When text is highlighted on the ROQ website, any text that is highlighted outisde of a link or tab, it does not read the text.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Desktop:*
+ - Browser: Chrome
