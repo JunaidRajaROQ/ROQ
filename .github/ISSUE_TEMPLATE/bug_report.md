@@ -18,5 +18,5 @@ When text is highlighted on the ROQ website, any text that is highlighted outsid
 **Actual behavior**
 When text is highlighted on the ROQ website, any text that is highlighted outisde of a link or tab, it does not read the text.
 
-**Desktop:*
+**Desktop:**
  - Browser: Chrome
